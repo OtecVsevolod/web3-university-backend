@@ -34,7 +34,7 @@ app.post('/webhook', async (req, res) => {
 
 - [Binance](https://accounts.binance.com/register?ref=477681384)
 - [Bybit](https://www.bybit.com/invite?ref=B1XGLW)
-- [Evedex]https://invite.evedex.com/ixjrpwo4)
+- [Evedex](https://invite.evedex.com/ixjrpwo4)
 - [Bingx](https://bingx.com/invite/4KQ2KY/)
 
 3. **Желание стать независимым**.
